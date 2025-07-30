@@ -2,9 +2,7 @@
 
 *A demo and proof-of-concept for using Large Language Models to generate personalized care plans with human-in-the-loop clinical oversight*
 
-[![CI/CD Pipeline](https://github.com/your-username/careplan-ai/workflows/CarePlan%20AI%20CI/CD%20Pipeline/badge.svg)](https://github.com/your-username/careplan-ai/actions)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![React 18](https://img.shields.io/badge/react-18+-61DAFB.svg)](https://reactjs.org/)
+<B>See demo live at [http://3.233.18.53](http://3.233.18.53)</B>
 
 ## 🎯 What This Demonstrates
 
