@@ -208,6 +208,9 @@ const Login: React.FC = () => {
             <Typography variant="body2" color="textSecondary">
               • Clinician: dr.garcia@hospital.com / doctor123
             </Typography>
+            <Typography variant="body2" color="textSecondary">
+              • Admin: admin@hospital.com / admin123
+            </Typography>
           </Box>
         </Paper>
       </Box>
