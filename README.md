@@ -2,7 +2,7 @@
 
 *A demo and proof-of-concept for using Large Language Models to generate personalized care plans with human-in-the-loop clinical oversight*
 
-<B>See demo live at [http://3.233.18.53](http://3.233.18.53)</B>
+**See demo live at [here](http://careplan-ai-nlb-a5a4b5fcbd577d1c.elb.us-east-1.amazonaws.com/)**
 
 ## 🎯 What This Demonstrates
 
